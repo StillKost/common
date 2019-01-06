@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\SendPost\SendPost\bin\Debug\netcoreapp2.1\SendPost.deps.json
+C:\Users\user\source\repos\SendPost\SendPost\bin\Debug\netcoreapp2.1\SendPost.runtimeconfig.json
+C:\Users\user\source\repos\SendPost\SendPost\bin\Debug\netcoreapp2.1\SendPost.runtimeconfig.dev.json
+C:\Users\user\source\repos\SendPost\SendPost\bin\Debug\netcoreapp2.1\SendPost.dll
+C:\Users\user\source\repos\SendPost\SendPost\bin\Debug\netcoreapp2.1\SendPost.pdb
+C:\Users\user\source\repos\SendPost\SendPost\obj\Debug\netcoreapp2.1\SendPost.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SendPost\SendPost\obj\Debug\netcoreapp2.1\SendPost.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SendPost\SendPost\obj\Debug\netcoreapp2.1\SendPost.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SendPost\SendPost\obj\Debug\netcoreapp2.1\SendPost.AssemblyInfo.cs
+C:\Users\user\source\repos\SendPost\SendPost\obj\Debug\netcoreapp2.1\SendPost.dll
+C:\Users\user\source\repos\SendPost\SendPost\obj\Debug\netcoreapp2.1\SendPost.pdb
