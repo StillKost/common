@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\SendPost\\SendPost\\SendPost.csproj",
+      "projectUniqueName": "C:\\Users\\user\\common\\SendPost\\SendPost\\SendPost.csproj",
       "projectName": "SendPost",
-      "projectPath": "C:\\Users\\user\\source\\repos\\SendPost\\SendPost\\SendPost.csproj",
+      "projectPath": "C:\\Users\\user\\common\\SendPost\\SendPost\\SendPost.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\SendPost\\SendPost\\obj\\",
+      "outputPath": "C:\\Users\\user\\common\\SendPost\\SendPost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
